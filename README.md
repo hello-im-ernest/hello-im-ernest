@@ -35,5 +35,5 @@
 ---
 <div align="left">
   <sub>©️ Ernest B. Hernandez<br>
-  v 2.3  •  Last updated: 27‑March‑2026</sub>
+  v 2.5  •  Last updated: 01‑July‑2026</sub>
 </div>  
