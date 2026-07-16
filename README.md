@@ -13,7 +13,7 @@
   <table>
     <tr>
       <td align="center" width="200"><img src="home.png" width="35" alt="Home icon"><br><a href="https://hello-im-ernest.github.io/"><i>Home</i></a></td>
-      <td align="center" width="200"><img src="security.png" width="35" alt="Cybersecurity shield icon"><br><a href="https://hello-im-ernest.github.io/earnest-bits-n-bytes/"><i>Portfolio</i></a></td>
+      <td align="center" width="200"><img src="security.png" width="35" alt="Cybersecurity shield icon"><br><a href="https://hello-im-ernest.github.io/An-Earnest-Defense/"><i>Portfolio</i></a></td>
       <td align="center" width="200"><img src="LI-In-Bug.png" width="35" alt="LinkedIn logo"><br><a href="https://linkedin.com/in/hello-im-ernest"><i>Let's Connect!</i></a></td>
       <td align="center" width="200"><img src="email.png" width="35" alt="Email icon"><br><a href="mailto:hello.im.ernest@gmail.com"><i>Email Me!</i></a></td>
     </tr>
@@ -35,5 +35,5 @@
 ---
 <div align="left">
   <sub>©️ Ernest B. Hernandez<br>
-  v 2.5  •  Last updated: 01‑July‑2026</sub>
+  v 2.8  •  Last updated: 16‑July‑2026</sub>
 </div>  
