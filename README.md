@@ -1,20 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0d11,100:218bff&section=header&text=Ernest%20B.%20Hernandez&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=e3b341&animation=fadeIn&desc=Emerging%20Information%20Security%20Architect&descAlign=50&descAlignY=58&descSize=18&descColor=e1e7ef)
+<img src="https://raw.githubusercontent.com/hello-im-ernest/hello-im-ernest/main/neofetch_v2.svg" width="100%" alt="ernest@infosec neofetch-style profile summary">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1500&color=218BFF&center=true&vCenter=true&width=560&lines=Emerging+Information+Security+Architect;Defense-in-Depth+Secure+Systems+Designer;Threat+Mitigation+%26+Network+Specialist;Engineering+Trust+into+Digital+Systems)](https://hello-im-ernest.github.io/)
+<br><br>
 
-![Class](https://img.shields.io/badge/BAT%2C_Cybersecurity-12161b?style=flat-square&labelColor=12161b)
-![College](https://img.shields.io/badge/St._Philip's_College-12161b?style=flat-square&labelColor=12161b)
-![Class of 2028](https://img.shields.io/badge/Class_of_2028-12161b?style=flat-square&labelColor=12161b)
-
-<br>
-
-👋&nbsp; Hi, I'm Ernest — a San Antonio-based cybersecurity junior building toward a career in Information Security Architecture. This profile is the index; the full story lives on my <a href="https://hello-im-ernest.github.io/"><b>personal site</b></a> and <a href="https://hello-im-ernest.github.io/An-Earnest-Defense/"><b>cybersecurity portfolio</b></a>.
-
-<br>
-
-`01 // directory`
+### 🌐 Directory
 
 <table>
 <tr>
@@ -27,26 +17,8 @@
 
 <br>
 
-`02 // skills & tools`
-
-![Metasploit](https://img.shields.io/badge/Metasploit-e3b341?style=for-the-badge&logo=metasploit&logoColor=0a0d11&labelColor=e3b341)
-![Network Security](https://img.shields.io/badge/Network_Security-218bff?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=218bff)
-![JavaScript](https://img.shields.io/badge/JavaScript-e3b341?style=for-the-badge&logo=javascript&logoColor=0a0d11&labelColor=e3b341)
-![Python](https://img.shields.io/badge/Python-218bff?style=for-the-badge&logo=python&logoColor=white&labelColor=218bff)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-218bff?style=for-the-badge&logo=google&logoColor=white&labelColor=218bff)
-![Wireshark](https://img.shields.io/badge/Wireshark-e3b341?style=for-the-badge&logo=wireshark&logoColor=0a0d11&labelColor=e3b341)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-218bff?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=218bff)
-![NIST/OWASP](https://img.shields.io/badge/NIST%2FOWASP-e3b341?style=for-the-badge&logo=owasp&logoColor=0a0d11&labelColor=e3b341)
-<br>
-
-`03 // interests & focus areas`
-
-![Security Architecture](https://img.shields.io/badge/Security_Architecture-12161b?style=flat-square&labelColor=12161b)
-![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-12161b?style=flat-square&labelColor=12161b)
-![CTF Challenges](https://img.shields.io/badge/CTF_Challenges-12161b?style=flat-square&labelColor=12161b)
-![Network Defense](https://img.shields.io/badge/Network_Defense-12161b?style=flat-square&labelColor=12161b)
-![Security Automation](https://img.shields.io/badge/Security_Automation-12161b?style=flat-square&labelColor=12161b)
-![Homelab](https://img.shields.io/badge/Homelab_%2F_Tinkering-12161b?style=flat-square&labelColor=12161b)
+<img src="https://github-readme-stats.vercel.app/api?username=hello-im-ernest&show_icons=true&hide_border=true&bg_color=0a0d11&title_color=e3b341&text_color=e1e7ef&icon_color=218bff" height="165">
+<img src="https://streak-stats.demolab.com/?user=hello-im-ernest&hide_border=true&background=0A0D11&ring=218BFF&fire=E3B341&currStreakLabel=E3B341&sideLabels=E1E7EF&currStreakNum=E1E7EF&sideNums=E1E7EF&dates=A1AAB5&border=30363D" height="165">
 
 <br><br>
 
